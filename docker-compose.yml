@@ -1,0 +1,9 @@
+version: "3"
+services:
+  nist:
+    image: "nist-validator:latest"
+    build: "."
+    command: "/bin/bash"
+    volumes:
+      - ".:/usr/src/app"
+      - "/usr/src/app/node_modules"

@@ -1,0 +1,14 @@
+{
+  "name": "nist-validator",
+  "version": "1.0.0",
+  "description": "ads",
+  "scripts": {
+    "run": "validate.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonschema": "^1.4.1"
+  }
+}
