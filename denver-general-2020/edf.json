@@ -257,7 +257,9 @@
               }
             ]
           },
-          "OfficeIds": [ ],
+          "OfficeIds": [
+            "776a16ab"
+          ],
           "VoteVariation": "n-of-m",
           "VotesAllowed": 1,
           "ContestSelection": [
@@ -315,7 +317,9 @@
               }
             ]
           },
-          "OfficeIds": [ ],
+          "OfficeIds": [
+            "717383bd"
+          ],
           "VoteVariation": "n-of-m",
           "VotesAllowed": 1,
           "ContestSelection": [
@@ -373,7 +377,9 @@
               }
             ]
           },
-          "OfficeIds": [ ],
+          "OfficeIds": [
+            "903e6fc1"
+          ],
           "VoteVariation": "n-of-m",
           "VotesAllowed": 1,
           "ContestSelection": [
@@ -3061,6 +3067,66 @@
           {
             "@type": "ElectionResults.LanguageString",
             "Content": "Suprema Corte de Justicia de Colorado",
+            "Language": "es"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "ElectionResults.Office",
+      "@id": "776a16ab",
+      "IsPartisan": false,
+      "Name": {
+        "@type": "ElectionResults.InternationalizedText",
+        "Text": [
+          {
+            "@type": "ElectionResults.LanguageString",
+            "Content": "Court of Appeals",
+            "Language": "en"
+          },
+          {
+            "@type": "ElectionResults.LanguageString",
+            "Content": "Tribunal de Apelaciones",
+            "Language": "es"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "ElectionResults.Office",
+      "@id": "717383bd",
+      "IsPartisan": false,
+      "Name": {
+        "@type": "ElectionResults.InternationalizedText",
+        "Text": [
+          {
+            "@type": "ElectionResults.LanguageString",
+            "Content": "District Court Judge",
+            "Language": "en"
+          },
+          {
+            "@type": "ElectionResults.LanguageString",
+            "Content": "Juez del Tribunal del Distrito",
+            "Language": "es"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "ElectionResults.Office",
+      "@id": "903e6fc1",
+      "IsPartisan": false,
+      "Name": {
+        "@type": "ElectionResults.InternationalizedText",
+        "Text": [
+          {
+            "@type": "ElectionResults.LanguageString",
+            "Content": "County Court Judge",
+            "Language": "en"
+          },
+          {
+            "@type": "ElectionResults.LanguageString",
+            "Content": "Juez del Tribunal del Condado",
             "Language": "es"
           }
         ]
