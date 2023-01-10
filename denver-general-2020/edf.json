@@ -241,11 +241,7 @@
               }
             ]
           },
-          "OfficeIds": [
-            "6649b4c6"
-          ],
           "VoteVariation": "n-of-m",
-          "VotesAllowed": 1,
           "ContestSelection": [
             {
               "@type": "ElectionResults.BallotMeasureSelection",
@@ -302,11 +298,7 @@
               }
             ]
           },
-          "OfficeIds": [
-            "776a16ab"
-          ],
           "VoteVariation": "n-of-m",
-          "VotesAllowed": 1,
           "ContestSelection": [
             {
               "@type": "ElectionResults.BallotMeasureSelection",
@@ -363,11 +355,7 @@
               }
             ]
           },
-          "OfficeIds": [
-            "717383bd"
-          ],
           "VoteVariation": "n-of-m",
-          "VotesAllowed": 1,
           "ContestSelection": [
             {
               "@type": "ElectionResults.BallotMeasureSelection",
@@ -424,11 +412,7 @@
               }
             ]
           },
-          "OfficeIds": [
-            "903e6fc1"
-          ],
           "VoteVariation": "n-of-m",
-          "VotesAllowed": 1,
           "ContestSelection": [
             {
               "@type": "ElectionResults.BallotMeasureSelection",
@@ -485,9 +469,7 @@
               }
             ]
           },
-          "OfficeIds": [ ],
           "VoteVariation": "n-of-m",
-          "VotesAllowed": 1,
           "ContestSelection": [
             {
               "@type": "ElectionResults.BallotMeasureSelection",
@@ -549,9 +531,7 @@
               }
             ]
           },
-          "OfficeIds": [ ],
           "VoteVariation": "n-of-m",
-          "VotesAllowed": 1,
           "ContestSelection": [
             {
               "@type": "ElectionResults.BallotMeasureSelection",
@@ -613,9 +593,7 @@
               }
             ]
           },
-          "OfficeIds": [ ],
           "VoteVariation": "n-of-m",
-          "VotesAllowed": 1,
           "ContestSelection": [
             {
               "@type": "ElectionResults.BallotMeasureSelection",
@@ -677,9 +655,7 @@
               }
             ]
           },
-          "OfficeIds": [ ],
           "VoteVariation": "n-of-m",
-          "VotesAllowed": 1,
           "ContestSelection": [
             {
               "@type": "ElectionResults.BallotMeasureSelection",
@@ -741,9 +717,7 @@
               }
             ]
           },
-          "OfficeIds": [ ],
           "VoteVariation": "n-of-m",
-          "VotesAllowed": 1,
           "ContestSelection": [
             {
               "@type": "ElectionResults.BallotMeasureSelection",
@@ -805,9 +779,7 @@
               }
             ]
           },
-          "OfficeIds": [ ],
           "VoteVariation": "n-of-m",
-          "VotesAllowed": 1,
           "ContestSelection": [
             {
               "@type": "ElectionResults.BallotMeasureSelection",
@@ -869,9 +841,7 @@
               }
             ]
           },
-          "OfficeIds": [ ],
           "VoteVariation": "n-of-m",
-          "VotesAllowed": 1,
           "ContestSelection": [
             {
               "@type": "ElectionResults.BallotMeasureSelection",
@@ -933,9 +903,7 @@
               }
             ]
           },
-          "OfficeIds": [ ],
           "VoteVariation": "n-of-m",
-          "VotesAllowed": 1,
           "ContestSelection": [
             {
               "@type": "ElectionResults.BallotMeasureSelection",
@@ -997,9 +965,7 @@
               }
             ]
           },
-          "OfficeIds": [ ],
           "VoteVariation": "n-of-m",
-          "VotesAllowed": 1,
           "ContestSelection": [
             {
               "@type": "ElectionResults.BallotMeasureSelection",
@@ -1061,9 +1027,7 @@
               }
             ]
           },
-          "OfficeIds": [ ],
           "VoteVariation": "n-of-m",
-          "VotesAllowed": 1,
           "ContestSelection": [
             {
               "@type": "ElectionResults.BallotMeasureSelection",
@@ -1125,9 +1089,7 @@
               }
             ]
           },
-          "OfficeIds": [ ],
           "VoteVariation": "n-of-m",
-          "VotesAllowed": 1,
           "ContestSelection": [
             {
               "@type": "ElectionResults.BallotMeasureSelection",
@@ -1189,9 +1151,7 @@
               }
             ]
           },
-          "OfficeIds": [ ],
           "VoteVariation": "n-of-m",
-          "VotesAllowed": 1,
           "ContestSelection": [
             {
               "@type": "ElectionResults.BallotMeasureSelection",
@@ -1253,9 +1213,7 @@
               }
             ]
           },
-          "OfficeIds": [ ],
           "VoteVariation": "n-of-m",
-          "VotesAllowed": 1,
           "ContestSelection": [
             {
               "@type": "ElectionResults.BallotMeasureSelection",
@@ -1317,9 +1275,7 @@
               }
             ]
           },
-          "OfficeIds": [ ],
           "VoteVariation": "n-of-m",
-          "VotesAllowed": 1,
           "ContestSelection": [
             {
               "@type": "ElectionResults.BallotMeasureSelection",
@@ -1381,9 +1337,7 @@
               }
             ]
           },
-          "OfficeIds": [ ],
           "VoteVariation": "n-of-m",
-          "VotesAllowed": 1,
           "ContestSelection": [
             {
               "@type": "ElectionResults.BallotMeasureSelection",
@@ -1445,9 +1399,7 @@
               }
             ]
           },
-          "OfficeIds": [ ],
           "VoteVariation": "n-of-m",
-          "VotesAllowed": 1,
           "ContestSelection": [
             {
               "@type": "ElectionResults.BallotMeasureSelection",
@@ -1509,9 +1461,7 @@
               }
             ]
           },
-          "OfficeIds": [ ],
           "VoteVariation": "n-of-m",
-          "VotesAllowed": 1,
           "ContestSelection": [
             {
               "@type": "ElectionResults.BallotMeasureSelection",
@@ -1573,9 +1523,7 @@
               }
             ]
           },
-          "OfficeIds": [ ],
           "VoteVariation": "n-of-m",
-          "VotesAllowed": 1,
           "ContestSelection": [
             {
               "@type": "ElectionResults.BallotMeasureSelection",
@@ -1637,9 +1585,7 @@
               }
             ]
           },
-          "OfficeIds": [ ],
           "VoteVariation": "n-of-m",
-          "VotesAllowed": 1,
           "ContestSelection": [
             {
               "@type": "ElectionResults.BallotMeasureSelection",
@@ -1701,9 +1647,7 @@
               }
             ]
           },
-          "OfficeIds": [ ],
           "VoteVariation": "n-of-m",
-          "VotesAllowed": 1,
           "ContestSelection": [
             {
               "@type": "ElectionResults.BallotMeasureSelection",
@@ -1765,9 +1709,7 @@
               }
             ]
           },
-          "OfficeIds": [ ],
           "VoteVariation": "n-of-m",
-          "VotesAllowed": 1,
           "ContestSelection": [
             {
               "@type": "ElectionResults.BallotMeasureSelection",
@@ -1829,9 +1771,7 @@
               }
             ]
           },
-          "OfficeIds": [ ],
           "VoteVariation": "n-of-m",
-          "VotesAllowed": 1,
           "ContestSelection": [
             {
               "@type": "ElectionResults.BallotMeasureSelection",
@@ -1893,9 +1833,7 @@
               }
             ]
           },
-          "OfficeIds": [ ],
           "VoteVariation": "n-of-m",
-          "VotesAllowed": 1,
           "ContestSelection": [
             {
               "@type": "ElectionResults.BallotMeasureSelection",
