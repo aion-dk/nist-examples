@@ -3188,7 +3188,6 @@
     {
       "@type": "ElectionResults.Office",
       "@id": "c937ab5e",
-      "IsPartisan": false,
       "Name": {
         "@type": "ElectionResults.InternationalizedText",
         "Text": [
@@ -3208,7 +3207,6 @@
     {
       "@type": "ElectionResults.Office",
       "@id": "f92e5c77",
-      "IsPartisan": false,
       "Name": {
         "@type": "ElectionResults.InternationalizedText",
         "Text": [
@@ -3228,7 +3226,6 @@
     {
       "@type": "ElectionResults.Office",
       "@id": "9dc07fc0",
-      "IsPartisan": false,
       "Name": {
         "@type": "ElectionResults.InternationalizedText",
         "Text": [
@@ -3248,7 +3245,6 @@
     {
       "@type": "ElectionResults.Office",
       "@id": "078b020f",
-      "IsPartisan": false,
       "Name": {
         "@type": "ElectionResults.InternationalizedText",
         "Text": [
@@ -3268,7 +3264,6 @@
     {
       "@type": "ElectionResults.Office",
       "@id": "241bd8ff",
-      "IsPartisan": false,
       "Name": {
         "@type": "ElectionResults.InternationalizedText",
         "Text": [
@@ -3288,7 +3283,6 @@
     {
       "@type": "ElectionResults.Office",
       "@id": "82b045d5",
-      "IsPartisan": false,
       "Name": {
         "@type": "ElectionResults.InternationalizedText",
         "Text": [
@@ -3308,7 +3302,6 @@
     {
       "@type": "ElectionResults.Office",
       "@id": "6649b4c6",
-      "IsPartisan": false,
       "Name": {
         "@type": "ElectionResults.InternationalizedText",
         "Text": [
@@ -3328,7 +3321,6 @@
     {
       "@type": "ElectionResults.Office",
       "@id": "776a16ab",
-      "IsPartisan": false,
       "Name": {
         "@type": "ElectionResults.InternationalizedText",
         "Text": [
@@ -3348,7 +3340,6 @@
     {
       "@type": "ElectionResults.Office",
       "@id": "717383bd",
-      "IsPartisan": false,
       "Name": {
         "@type": "ElectionResults.InternationalizedText",
         "Text": [
@@ -3368,7 +3359,6 @@
     {
       "@type": "ElectionResults.Office",
       "@id": "903e6fc1",
-      "IsPartisan": false,
       "Name": {
         "@type": "ElectionResults.InternationalizedText",
         "Text": [
