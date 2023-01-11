@@ -51,7 +51,7 @@
             }
           ],
           "GpUnitIds": [
-            "8116a0ca"
+            "4dac4917"
           ],
           "OrderedContent": [
             {
@@ -146,7 +146,7 @@
           "@type": "ElectionResults.CandidateContest",
           "@id": "1ff796cf",
           "Name": "Presidential Electors",
-          "ElectionDistrictId": "8116a0ca",
+          "ElectionDistrictId": "e06391d6",
           "OfficeIds": [
             "c937ab5e"
           ],
@@ -364,7 +364,7 @@
           "@type": "ElectionResults.CandidateContest",
           "@id": "e344a51d",
           "Name": "Representative to the 117th United States Congress - District 1",
-          "ElectionDistrictId": "8116a0ca",
+          "ElectionDistrictId": "e06391d6",
           "OfficeIds": [
             "9dc07fc0"
           ],
@@ -3376,7 +3376,35 @@
       }
     }
   ],
+  "Person": [
+
+  ],
   "GpUnit": [
+    {
+      "Type": "country",
+      "@type": "ElectionResults.ReportingUnit",
+      "@id": "e06391d6",
+      "ComposingGpUnitIds": [
+        "8116a0ca"
+      ],
+      "Name": {
+        "Text": [
+          {
+            "Content": "United States of America",
+            "Language": "en",
+            "Label": "USA",
+            "@type": "ElectionResults.LanguageString"
+          },
+          {
+            "Content": "Estados Unidos de America",
+            "Language": "es",
+            "Label": "EUA",
+            "@type": "ElectionResults.LanguageString"
+          }
+        ],
+        "@type": "ElectionResults.InternationalizedText"
+      }
+    },
     {
       "Type": "state",
       "@type": "ElectionResults.ReportingUnit",
@@ -3389,11 +3417,13 @@
           {
             "Content": "State of Colorado",
             "Language": "en",
+            "Label": "Colorado",
             "@type": "ElectionResults.LanguageString"
           },
           {
             "Content": "Estado de Colorado",
             "Language": "es",
+            "Label": "Colorado",
             "@type": "ElectionResults.LanguageString"
           }
         ],
@@ -3401,7 +3431,7 @@
       }
     },
     {
-      "Type": "county",
+      "Type": "precinct",
       "@type": "ElectionResults.ReportingUnit",
       "@id": "4dac4917",
       "ComposingGpUnitIds": [ ],
@@ -3410,11 +3440,13 @@
           {
             "Content": "Denver County",
             "Language": "en",
+            "Label": "Denver",
             "@type": "ElectionResults.LanguageString"
           },
           {
             "Content": "Condado de Denver",
             "Language": "es",
+            "Label": "Denver",
             "@type": "ElectionResults.LanguageString"
           }
         ],
