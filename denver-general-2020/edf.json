@@ -33,6 +33,23 @@
       "BallotStyle": [
         {
           "@type": "ElectionResults.BallotStyle",
+          "ImageUri": [
+            {
+              "@type": "ElectionResults.AnnotatedUri",
+              "Annotation": "application/pdf",
+              "Content": "https://bucket:8080/ballots/denver-general-2020/102A.pdf"
+            },
+            {
+              "@type": "ElectionResults.AnnotatedUri",
+              "Annotation": "application/pdf",
+              "Content": "https://bucket:8080/ballots/denver-general-2020/102B.pdf"
+            },
+            {
+              "@type": "ElectionResults.AnnotatedUri",
+              "Annotation": "application/pdf",
+              "Content": "https://bucket:8080/ballots/denver-general-2020/102C.pdf"
+            }
+          ],
           "GpUnitIds": [
             "8116a0ca"
           ],
