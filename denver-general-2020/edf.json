@@ -129,6 +129,126 @@
                 "e4e05d8a",
                 "20074880"
               ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "3b8b26f8",
+              "OrderedContestSelectionIds": [
+                "f67bba01",
+                "114e8f30"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "1ae4d14a",
+              "OrderedContestSelectionIds": [
+                "f2f65721",
+                "4298a01f"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "b048a01a",
+              "OrderedContestSelectionIds": [
+                "49f22c97",
+                "4718ef55"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "1adfdeab",
+              "OrderedContestSelectionIds": [
+                "e3c03096",
+                "637bacc8"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "e4ae16aa",
+              "OrderedContestSelectionIds": [
+                "c4be245d",
+                "001a93bb"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "b5cb8c68",
+              "OrderedContestSelectionIds": [
+                "90b3677b",
+                "8f307454"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "e3972508",
+              "OrderedContestSelectionIds": [
+                "82e80001",
+                "1f2e9866"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "3ec488f0",
+              "OrderedContestSelectionIds": [
+                "d75c39e2",
+                "21f9c9ee"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "e6d14486",
+              "OrderedContestSelectionIds": [
+                "b85aac3c",
+                "97f5b954"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "abdae213",
+              "OrderedContestSelectionIds": [
+                "9a229906",
+                "672df60d"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "75ac2ef0",
+              "OrderedContestSelectionIds": [
+                "12fd2d7f",
+                "db008015"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "1d6639fd",
+              "OrderedContestSelectionIds": [
+                "75c83056",
+                "c6cc09f4"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "b4e09d63",
+              "OrderedContestSelectionIds": [
+                "7161f60e",
+                "fa6be39d"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "cc0d7c6a",
+              "OrderedContestSelectionIds": [
+                "fc51a9d4",
+                "d31f1ff4"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "5b9a23f1",
+              "OrderedContestSelectionIds": [
+                "0fc38332",
+                "ccbf3159"
+              ]
             }
           ],
           "ExternalIdentifier": [
@@ -562,6 +682,63 @@
         },
         {
           "@type": "ElectionResults.BallotMeasureContest",
+          "@id": "1ae4d14a",
+          "Name": "Colorado Supreme Court Justice",
+          "ElectionDistrictId": "8116a0ca",
+          "FullText": {
+            "@type": "ElectionResults.InternationalizedText",
+            "Text": [
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "Shall Justice Carlos A. Samour Jr. of the Colorado Supreme Court be retained in office?",
+                "Language": "en"
+              },
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "¿Deberia conservar su cargo la jueza Carlos A. Samour Jr. de la Suprema Corte de Colorado?",
+                "Language": "es"
+              }
+            ]
+          },
+          "VoteVariation": "n-of-m",
+          "ContestSelection": [
+            {
+              "@type": "ElectionResults.BallotMeasureSelection",
+              "@id": "f2f65721",
+              "Selection": {
+                "@type": "ElectionResults.InternationalizedText",
+                "Text": [
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "Yes",
+                    "Language": "en"
+                  },
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "Sí",
+                    "Language": "es"
+                  }
+                ]
+              }
+            },
+            {
+              "@type": "ElectionResults.BallotMeasureSelection",
+              "@id": "4298a01f",
+              "Selection": {
+                "@type": "ElectionResults.InternationalizedText",
+                "Text": [
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "No",
+                    "Language": "en"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "@type": "ElectionResults.BallotMeasureContest",
           "@id": "a250ce59",
           "Name": "Colorado Court of Appeals Judge",
           "ElectionDistrictId": "8116a0ca",
@@ -604,6 +781,63 @@
             {
               "@type": "ElectionResults.BallotMeasureSelection",
               "@id": "0170a137",
+              "Selection": {
+                "@type": "ElectionResults.InternationalizedText",
+                "Text": [
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "No",
+                    "Language": "en"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "@type": "ElectionResults.BallotMeasureContest",
+          "@id": "b048a01a",
+          "Name": "Colorado Court of Appeals Judge",
+          "ElectionDistrictId": "8116a0ca",
+          "FullText": {
+            "@type": "ElectionResults.InternationalizedText",
+            "Text": [
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "Shall Judge Craig R. Welling of the Colorado Court of Appeals be retained in office?",
+                "Language": "en"
+              },
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "¿Deberia conservar su cargo el juez Craig R. Welling del Tribunal de Apelaciones de Colorado?",
+                "Language": "es"
+              }
+            ]
+          },
+          "VoteVariation": "n-of-m",
+          "ContestSelection": [
+            {
+              "@type": "ElectionResults.BallotMeasureSelection",
+              "@id": "49f22c97",
+              "Selection": {
+                "@type": "ElectionResults.InternationalizedText",
+                "Text": [
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "Yes",
+                    "Language": "en"
+                  },
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "Sí",
+                    "Language": "es"
+                  }
+                ]
+              }
+            },
+            {
+              "@type": "ElectionResults.BallotMeasureSelection",
+              "@id": "4718ef55",
               "Selection": {
                 "@type": "ElectionResults.InternationalizedText",
                 "Text": [
@@ -676,6 +910,291 @@
         },
         {
           "@type": "ElectionResults.BallotMeasureContest",
+          "@id": "1adfdeab",
+          "Name": "District Court Judge - 2nd Judicial District",
+          "ElectionDistrictId": "8116a0ca",
+          "FullText": {
+            "@type": "ElectionResults.InternationalizedText",
+            "Text": [
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "Shall Judge Martin Foster Egelhoff of the 2nd Judicial District to be retained in office?",
+                "Language": "en"
+              },
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "¿Deberia conservar su cargo el juez Martin Foster Egelhoff del Distrito Judicial 2?",
+                "Language": "es"
+              }
+            ]
+          },
+          "VoteVariation": "n-of-m",
+          "ContestSelection": [
+            {
+              "@type": "ElectionResults.BallotMeasureSelection",
+              "@id": "e3c03096",
+              "Selection": {
+                "@type": "ElectionResults.InternationalizedText",
+                "Text": [
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "Yes",
+                    "Language": "en"
+                  },
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "Sí",
+                    "Language": "es"
+                  }
+                ]
+              }
+            },
+            {
+              "@type": "ElectionResults.BallotMeasureSelection",
+              "@id": "637bacc8",
+              "Selection": {
+                "@type": "ElectionResults.InternationalizedText",
+                "Text": [
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "No",
+                    "Language": "en"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "@type": "ElectionResults.BallotMeasureContest",
+          "@id": "e4ae16aa",
+          "Name": "District Court Judge - 2nd Judicial District",
+          "ElectionDistrictId": "8116a0ca",
+          "FullText": {
+            "@type": "ElectionResults.InternationalizedText",
+            "Text": [
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "Shall Judge John Eric Elliff of the 2nd Judicial District to be retained in office?",
+                "Language": "en"
+              },
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "¿Deberia conservar su cargo el juez John Eric Elliff del Distrito Judicial 2?",
+                "Language": "es"
+              }
+            ]
+          },
+          "VoteVariation": "n-of-m",
+          "ContestSelection": [
+            {
+              "@type": "ElectionResults.BallotMeasureSelection",
+              "@id": "c4be245d",
+              "Selection": {
+                "@type": "ElectionResults.InternationalizedText",
+                "Text": [
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "Yes",
+                    "Language": "en"
+                  },
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "Sí",
+                    "Language": "es"
+                  }
+                ]
+              }
+            },
+            {
+              "@type": "ElectionResults.BallotMeasureSelection",
+              "@id": "001a93bb",
+              "Selection": {
+                "@type": "ElectionResults.InternationalizedText",
+                "Text": [
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "No",
+                    "Language": "en"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "@type": "ElectionResults.BallotMeasureContest",
+          "@id": "b5cb8c68",
+          "Name": "District Court Judge - 2nd Judicial District",
+          "ElectionDistrictId": "8116a0ca",
+          "FullText": {
+            "@type": "ElectionResults.InternationalizedText",
+            "Text": [
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "Shall Judge A Bruce Jones of the 2nd Judicial District to be retained in office?",
+                "Language": "en"
+              },
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "¿Deberia conservar su cargo el juez A Bruce Jones del Distrito Judicial 2?",
+                "Language": "es"
+              }
+            ]
+          },
+          "VoteVariation": "n-of-m",
+          "ContestSelection": [
+            {
+              "@type": "ElectionResults.BallotMeasureSelection",
+              "@id": "90b3677b",
+              "Selection": {
+                "@type": "ElectionResults.InternationalizedText",
+                "Text": [
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "Yes",
+                    "Language": "en"
+                  },
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "Sí",
+                    "Language": "es"
+                  }
+                ]
+              }
+            },
+            {
+              "@type": "ElectionResults.BallotMeasureSelection",
+              "@id": "8f307454",
+              "Selection": {
+                "@type": "ElectionResults.InternationalizedText",
+                "Text": [
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "No",
+                    "Language": "en"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "@type": "ElectionResults.BallotMeasureContest",
+          "@id": "e3972508",
+          "Name": "District Court Judge - 2nd Judicial District",
+          "ElectionDistrictId": "8116a0ca",
+          "FullText": {
+            "@type": "ElectionResults.InternationalizedText",
+            "Text": [
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "Shall Judge Michael J. Vallejos of the 2nd Judicial District to be retained in office?",
+                "Language": "en"
+              },
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "¿Deberia conservar su cargo el juez Michael J. Vallejos del Distrito Judicial 2?",
+                "Language": "es"
+              }
+            ]
+          },
+          "VoteVariation": "n-of-m",
+          "ContestSelection": [
+            {
+              "@type": "ElectionResults.BallotMeasureSelection",
+              "@id": "82e80001",
+              "Selection": {
+                "@type": "ElectionResults.InternationalizedText",
+                "Text": [
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "Yes",
+                    "Language": "en"
+                  },
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "Sí",
+                    "Language": "es"
+                  }
+                ]
+              }
+            },
+            {
+              "@type": "ElectionResults.BallotMeasureSelection",
+              "@id": "1f2e9866",
+              "Selection": {
+                "@type": "ElectionResults.InternationalizedText",
+                "Text": [
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "No",
+                    "Language": "en"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "@type": "ElectionResults.BallotMeasureContest",
+          "@id": "3ec488f0",
+          "Name": "District Court Judge - 2nd Judicial District",
+          "ElectionDistrictId": "8116a0ca",
+          "FullText": {
+            "@type": "ElectionResults.InternationalizedText",
+            "Text": [
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "Shall Judge Elizabeth D. Leith of the 2nd Judicial District to be retained in office?",
+                "Language": "en"
+              },
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "¿Deberia conservar su cargo el juez Elizabeth D. Leith del Distrito Judicial 2?",
+                "Language": "es"
+              }
+            ]
+          },
+          "VoteVariation": "n-of-m",
+          "ContestSelection": [
+            {
+              "@type": "ElectionResults.BallotMeasureSelection",
+              "@id": "d75c39e2",
+              "Selection": {
+                "@type": "ElectionResults.InternationalizedText",
+                "Text": [
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "Yes",
+                    "Language": "en"
+                  },
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "Sí",
+                    "Language": "es"
+                  }
+                ]
+              }
+            },
+            {
+              "@type": "ElectionResults.BallotMeasureSelection",
+              "@id": "21f9c9ee",
+              "Selection": {
+                "@type": "ElectionResults.InternationalizedText",
+                "Text": [
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "No",
+                    "Language": "en"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "@type": "ElectionResults.BallotMeasureContest",
           "@id": "e6d14486",
           "Name": "County Court Judge - Denver",
           "ElectionDistrictId": "8116a0ca",
@@ -684,7 +1203,7 @@
             "Text": [
               {
                 "@type": "ElectionResults.LanguageString",
-                "Content": "Shall Judge Beth Ann Faragher of Denver County be retained in office?",
+                "Content": "Shall Judge Beth Ann Faragher of Denver County Court be retained in office?",
                 "Language": "en"
               },
               {
@@ -718,6 +1237,344 @@
             {
               "@type": "ElectionResults.BallotMeasureSelection",
               "@id": "97f5b954",
+              "Selection": {
+                "@type": "ElectionResults.InternationalizedText",
+                "Text": [
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "No",
+                    "Language": "en"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "@type": "ElectionResults.BallotMeasureContest",
+          "@id": "abdae213",
+          "Name": "County Court Judge - Denver",
+          "ElectionDistrictId": "8116a0ca",
+          "FullText": {
+            "@type": "ElectionResults.InternationalizedText",
+            "Text": [
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "Shall Judge Isabel Pallares of Denver County Court be retained in office?",
+                "Language": "en"
+              },
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "¿Deberia conservar su cargo la jueza Isabel Pallares del Tribunal del Condado de Denver?",
+                "Language": "es"
+              }
+            ]
+          },
+          "VoteVariation": "n-of-m",
+          "ContestSelection": [
+            {
+              "@type": "ElectionResults.BallotMeasureSelection",
+              "@id": "9a229906",
+              "Selection": {
+                "@type": "ElectionResults.InternationalizedText",
+                "Text": [
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "Yes",
+                    "Language": "en"
+                  },
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "Sí",
+                    "Language": "es"
+                  }
+                ]
+              }
+            },
+            {
+              "@type": "ElectionResults.BallotMeasureSelection",
+              "@id": "672df60d",
+              "Selection": {
+                "@type": "ElectionResults.InternationalizedText",
+                "Text": [
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "No",
+                    "Language": "en"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "@type": "ElectionResults.BallotMeasureContest",
+          "@id": "75ac2ef0",
+          "Name": "County Court Judge - Denver",
+          "ElectionDistrictId": "8116a0ca",
+          "FullText": {
+            "@type": "ElectionResults.InternationalizedText",
+            "Text": [
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "Shall Judge Nicole M. Rodarte of Denver County Court be retained in office?",
+                "Language": "en"
+              },
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "¿Deberia conservar su cargo la jueza Nicole M. Rodarte del Tribunal del Condado de Denver?",
+                "Language": "es"
+              }
+            ]
+          },
+          "VoteVariation": "n-of-m",
+          "ContestSelection": [
+            {
+              "@type": "ElectionResults.BallotMeasureSelection",
+              "@id": "12fd2d7f",
+              "Selection": {
+                "@type": "ElectionResults.InternationalizedText",
+                "Text": [
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "Yes",
+                    "Language": "en"
+                  },
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "Sí",
+                    "Language": "es"
+                  }
+                ]
+              }
+            },
+            {
+              "@type": "ElectionResults.BallotMeasureSelection",
+              "@id": "db008015",
+              "Selection": {
+                "@type": "ElectionResults.InternationalizedText",
+                "Text": [
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "No",
+                    "Language": "en"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "@type": "ElectionResults.BallotMeasureContest",
+          "@id": "1d6639fd",
+          "Name": "County Court Judge - Denver",
+          "ElectionDistrictId": "8116a0ca",
+          "FullText": {
+            "@type": "ElectionResults.InternationalizedText",
+            "Text": [
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "Shall Judge Andre L. Rudolph of Denver County Court be retained in office?",
+                "Language": "en"
+              },
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "¿Deberia conservar su cargo la juez Andre L. Rudolph del Tribunal del Condado de Denver?",
+                "Language": "es"
+              }
+            ]
+          },
+          "ContestSelection": [
+            {
+              "@type": "ElectionResults.BallotMeasureSelection",
+              "@id": "75c83056",
+              "Selection": {
+                "@type": "ElectionResults.InternationalizedText",
+                "Text": [
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "Yes",
+                    "Language": "en"
+                  },
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "Sí",
+                    "Language": "es"
+                  }
+                ]
+              }
+            },
+            {
+              "@type": "ElectionResults.BallotMeasureSelection",
+              "@id": "c6cc09f4",
+              "Selection": {
+                "@type": "ElectionResults.InternationalizedText",
+                "Text": [
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "No",
+                    "Language": "en"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "@type": "ElectionResults.BallotMeasureContest",
+          "@id": "b4e09d63",
+          "Name": "County Court Judge - Denver",
+          "ElectionDistrictId": "8116a0ca",
+          "FullText": {
+            "@type": "ElectionResults.InternationalizedText",
+            "Text": [
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "Shall Judge Barry A. Schwartz of Denver County Court be retained in office?",
+                "Language": "en"
+              },
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "¿Deberia conservar su cargo la juez Barry A. Schwartz del Tribunal del Condado de Denver?",
+                "Language": "es"
+              }
+            ]
+          },
+          "ContestSelection": [
+            {
+              "@type": "ElectionResults.BallotMeasureSelection",
+              "@id": "7161f60e",
+              "Selection": {
+                "@type": "ElectionResults.InternationalizedText",
+                "Text": [
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "Yes",
+                    "Language": "en"
+                  },
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "Sí",
+                    "Language": "es"
+                  }
+                ]
+              }
+            },
+            {
+              "@type": "ElectionResults.BallotMeasureSelection",
+              "@id": "fa6be39d",
+              "Selection": {
+                "@type": "ElectionResults.InternationalizedText",
+                "Text": [
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "No",
+                    "Language": "en"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "@type": "ElectionResults.BallotMeasureContest",
+          "@id": "cc0d7c6a",
+          "Name": "County Court Judge - Denver",
+          "ElectionDistrictId": "8116a0ca",
+          "FullText": {
+            "@type": "ElectionResults.InternationalizedText",
+            "Text": [
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "Shall Judge Frances E. Simonet of Denver County Court be retained in office?",
+                "Language": "en"
+              },
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "¿Deberia conservar su cargo la juez Frances E. Simonet del Tribunal del Condado de Denver?",
+                "Language": "es"
+              }
+            ]
+          },
+          "ContestSelection": [
+            {
+              "@type": "ElectionResults.BallotMeasureSelection",
+              "@id": "fc51a9d4",
+              "Selection": {
+                "@type": "ElectionResults.InternationalizedText",
+                "Text": [
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "Yes",
+                    "Language": "en"
+                  },
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "Sí",
+                    "Language": "es"
+                  }
+                ]
+              }
+            },
+            {
+              "@type": "ElectionResults.BallotMeasureSelection",
+              "@id": "d31f1ff4",
+              "Selection": {
+                "@type": "ElectionResults.InternationalizedText",
+                "Text": [
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "No",
+                    "Language": "en"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "@type": "ElectionResults.BallotMeasureContest",
+          "@id": "5b9a23f1",
+          "Name": "County Court Judge - Denver",
+          "ElectionDistrictId": "8116a0ca",
+          "FullText": {
+            "@type": "ElectionResults.InternationalizedText",
+            "Text": [
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "Shall Judge Theresa Spahn of Denver County Court be retained in office?",
+                "Language": "en"
+              },
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "¿Deberia conservar su cargo la jueza Theresa Spahn del Tribunal del Condado de Denver?",
+                "Language": "es"
+              }
+            ]
+          },
+          "ContestSelection": [
+            {
+              "@type": "ElectionResults.BallotMeasureSelection",
+              "@id": "0fc38332",
+              "Selection": {
+                "@type": "ElectionResults.InternationalizedText",
+                "Text": [
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "Yes",
+                    "Language": "en"
+                  },
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "Sí",
+                    "Language": "es"
+                  }
+                ]
+              }
+            },
+            {
+              "@type": "ElectionResults.BallotMeasureSelection",
+              "@id": "ccbf3159",
               "Selection": {
                 "@type": "ElectionResults.InternationalizedText",
                 "Text": [
