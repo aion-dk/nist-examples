@@ -4248,9 +4248,9 @@
   ],
   "GpUnit": [
     {
-      "Type": "country",
-      "@type": "ElectionResults.ReportingUnit",
       "@id": "e06391d6",
+      "@type": "ElectionResults.ReportingUnit",
+      "Type": "country",
       "ComposingGpUnitIds": [
         "8116a0ca"
       ],
@@ -4259,13 +4259,11 @@
           {
             "Content": "United States of America",
             "Language": "en",
-            "Label": "USA",
             "@type": "ElectionResults.LanguageString"
           },
           {
             "Content": "Estados Unidos de America",
             "Language": "es",
-            "Label": "EUA",
             "@type": "ElectionResults.LanguageString"
           }
         ],
@@ -4273,9 +4271,9 @@
       }
     },
     {
-      "Type": "state",
-      "@type": "ElectionResults.ReportingUnit",
       "@id": "8116a0ca",
+      "@type": "ElectionResults.ReportingUnit",
+      "Type": "state",
       "ComposingGpUnitIds": [
         "4dac4917"
       ],
@@ -4284,13 +4282,11 @@
           {
             "Content": "State of Colorado",
             "Language": "en",
-            "Label": "Colorado",
             "@type": "ElectionResults.LanguageString"
           },
           {
             "Content": "Estado de Colorado",
             "Language": "es",
-            "Label": "Colorado",
             "@type": "ElectionResults.LanguageString"
           }
         ],
@@ -4298,22 +4294,20 @@
       }
     },
     {
-      "Type": "precinct",
-      "@type": "ElectionResults.ReportingUnit",
       "@id": "4dac4917",
+      "@type": "ElectionResults.ReportingUnit",
+      "Type": "precinct",
       "ComposingGpUnitIds": [ ],
       "Name": {
         "Text": [
           {
             "Content": "Denver County",
             "Language": "en",
-            "Label": "Denver",
             "@type": "ElectionResults.LanguageString"
           },
           {
             "Content": "Condado de Denver",
             "Language": "es",
-            "Label": "Denver",
             "@type": "ElectionResults.LanguageString"
           }
         ],
