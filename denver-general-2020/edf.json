@@ -249,6 +249,190 @@
                 "0fc38332",
                 "ccbf3159"
               ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "833709ff",
+              "OrderedContestSelectionIds": [
+                "0ce2f12c",
+                "ed0ad06d"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "0aaf31e7",
+              "OrderedContestSelectionIds": [
+                "f910a4c2",
+                "7fa4284a"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "a67ff35d",
+              "OrderedContestSelectionIds": [
+                "d97e29c8",
+                "24717401"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "55184cd1",
+              "OrderedContestSelectionIds": [
+                "1f00d850",
+                "93d85bd4"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "6da46f9b",
+              "OrderedContestSelectionIds": [
+                "561a8314",
+                "0db3c8b0"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "682965c1",
+              "OrderedContestSelectionIds": [
+                "2fbc2ebe",
+                "b6419e4e"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "127c88e3",
+              "OrderedContestSelectionIds": [
+                "eb0468f1",
+                "b8d64b44"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "b5c19470",
+              "OrderedContestSelectionIds": [
+                "e3529027",
+                "5094848f"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "76e77a92",
+              "OrderedContestSelectionIds": [
+                "cf941a9c",
+                "50d6d195"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "eebd0fa2",
+              "OrderedContestSelectionIds": [
+                "df3794c3",
+                "4174ef69"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "fd265e35",
+              "OrderedContestSelectionIds": [
+                "ae433e8a",
+                "2c35db5a"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "6d85bc3c",
+              "OrderedContestSelectionIds": [
+                "6a423d0e",
+                "032b8a85"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "e872ef8a",
+              "OrderedContestSelectionIds": [
+                "3936d020",
+                "0d9bf288"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "f8ea6f22",
+              "OrderedContestSelectionIds": [
+                "624eaaac",
+                "570837c1"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "b458ad4c",
+              "OrderedContestSelectionIds": [
+                "c84cc5d8",
+                "9e584f76"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "1dcdef1c",
+              "OrderedContestSelectionIds": [
+                "3b609b71",
+                "66fbab3e"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "8003b50a",
+              "OrderedContestSelectionIds": [
+                "427f8a2b",
+                "c310ae49"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "fbe76ba7",
+              "OrderedContestSelectionIds": [
+                "25f46f41",
+                "6c71663f"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "2c72824f",
+              "OrderedContestSelectionIds": [
+                "b359788d",
+                "2d16c275"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "acc9bd59",
+              "OrderedContestSelectionIds": [
+                "e8f003c3",
+                "ae6592a3"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "5c281dde",
+              "OrderedContestSelectionIds": [
+                "620b97f0",
+                "f7b64228"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "3b287a8c",
+              "OrderedContestSelectionIds": [
+                "8b2ef55a",
+                "a75f6c8b"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "78e7ae89",
+              "OrderedContestSelectionIds": [
+                "73fc233f",
+                "a0cb5f6c"
+              ]
             }
           ],
           "ExternalIdentifier": [
@@ -1384,6 +1568,7 @@
               }
             ]
           },
+          "VoteVariation": "n-of-m",
           "ContestSelection": [
             {
               "@type": "ElectionResults.BallotMeasureSelection",
@@ -1440,6 +1625,7 @@
               }
             ]
           },
+          "VoteVariation": "n-of-m",
           "ContestSelection": [
             {
               "@type": "ElectionResults.BallotMeasureSelection",
@@ -1496,6 +1682,7 @@
               }
             ]
           },
+          "VoteVariation": "n-of-m",
           "ContestSelection": [
             {
               "@type": "ElectionResults.BallotMeasureSelection",
@@ -1552,6 +1739,7 @@
               }
             ]
           },
+          "VoteVariation": "n-of-m",
           "ContestSelection": [
             {
               "@type": "ElectionResults.BallotMeasureSelection",
