@@ -148,10 +148,26 @@
             },
             {
               "@type": "ElectionResults.OrderedContest",
+              "ContestId": "a250ce59",
+              "OrderedContestSelectionIds": [
+                "199c83ff",
+                "0170a137"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
               "ContestId": "b048a01a",
               "OrderedContestSelectionIds": [
                 "49f22c97",
                 "4718ef55"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "f6af731f",
+              "OrderedContestSelectionIds": [
+                "5be97f8d",
+                "9c46f9f0"
               ]
             },
             {
@@ -3777,7 +3793,7 @@
         {
           "@type": "ElectionResults.Candidate",
           "@id": "f4b0b13c",
-          "PartyId": "f4b0b13c",
+          "PartyId": "cffe6e89",
           "BallotName": {
             "@type": "ElectionResults.InternationalizedText",
             "Text": [
@@ -3798,6 +3814,7 @@
       "@id": "424a826c",
       "Name": {
         "@type": "ElectionResults.InternationalizedText",
+        "Label": "Democratic",
         "Text": [
           {
             "@type": "ElectionResults.LanguageString",
@@ -3827,6 +3844,7 @@
       "@id": "76ba931e",
       "Name": {
         "@type": "ElectionResults.InternationalizedText",
+        "Label": "Republican",
         "Text": [
           {
             "@type": "ElectionResults.LanguageString",
