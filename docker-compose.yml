@@ -3,7 +3,7 @@ services:
   nist:
     image: "nist-validator:latest"
     build: "."
-    command: "/bin/bash"
+    command: "npm run-script validate"
     volumes:
       - ".:/usr/src/app"
       - "/usr/src/app/node_modules"
