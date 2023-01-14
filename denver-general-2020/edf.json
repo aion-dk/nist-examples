@@ -3874,6 +3874,7 @@
       "@id": "d07d479f",
       "Name": {
         "@type": "ElectionResults.InternationalizedText",
+        "Label": "American Constituition",
         "Text": [
           {
             "@type": "ElectionResults.LanguageString",
@@ -3903,6 +3904,7 @@
       "@id": "d3e46644",
       "Name": {
         "@type": "ElectionResults.InternationalizedText",
+        "Label": "Unity",
         "Text": [
           {
             "@type": "ElectionResults.LanguageString",
@@ -3932,6 +3934,7 @@
       "@id": "b7fce473",
       "Name": {
         "@type": "ElectionResults.InternationalizedText",
+        "Label": "Green",
         "Text": [
           {
             "@type": "ElectionResults.LanguageString",
@@ -3961,6 +3964,7 @@
       "@id": "e7c47f72",
       "Name": {
         "@type": "ElectionResults.InternationalizedText",
+        "Label": "Approval Voting",
         "Text": [
           {
             "@type": "ElectionResults.LanguageString",
@@ -3990,6 +3994,7 @@
       "@id": "cffe6e89",
       "Name": {
         "@type": "ElectionResults.InternationalizedText",
+        "Label": "Libertarian",
         "Text": [
           {
             "@type": "ElectionResults.LanguageString",
@@ -4019,6 +4024,7 @@
       "@id": "7074e7a9",
       "Name": {
         "@type": "ElectionResults.InternationalizedText",
+        "Label": "American Solidarity",
         "Text": [
           {
             "@type": "ElectionResults.LanguageString",
@@ -4048,6 +4054,7 @@
       "@id": "78737bdd",
       "Name": {
         "@type": "ElectionResults.InternationalizedText",
+        "Label": "Prohibition",
         "Text": [
           {
             "@type": "ElectionResults.LanguageString",
@@ -4077,6 +4084,7 @@
       "@id": "1650d398",
       "Name": {
         "@type": "ElectionResults.InternationalizedText",
+        "Label": "Alliance",
         "Text": [
           {
             "@type": "ElectionResults.LanguageString",
@@ -4106,6 +4114,7 @@
       "@id": "2e326e8b",
       "Name": {
         "@type": "ElectionResults.InternationalizedText",
+        "Label": "Progressive",
         "Text": [
           {
             "@type": "ElectionResults.LanguageString",
@@ -4135,6 +4144,7 @@
       "@id": "e46a2902",
       "Name": {
         "@type": "ElectionResults.InternationalizedText",
+        "Label": "Socialist Workers",
         "Text": [
           {
             "@type": "ElectionResults.LanguageString",
@@ -4164,6 +4174,7 @@
       "@id": "050c26ea",
       "Name": {
         "@type": "ElectionResults.InternationalizedText",
+        "Label": "Socialist Equality",
         "Text": [
           {
             "@type": "ElectionResults.LanguageString",
@@ -4193,6 +4204,7 @@
       "@id": "75bfc046",
       "Name": {
         "@type": "ElectionResults.InternationalizedText",
+        "Label": "Independent American",
         "Text": [
           {
             "@type": "ElectionResults.LanguageString",
@@ -4222,6 +4234,7 @@
       "@id": "8270f902",
       "Name": {
         "@type": "ElectionResults.InternationalizedText",
+        "Label": "Socialism and Liberation",
         "Text": [
           {
             "@type": "ElectionResults.LanguageString",
