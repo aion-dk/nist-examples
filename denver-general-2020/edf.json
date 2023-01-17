@@ -3344,7 +3344,7 @@
         {
           "@type": "ElectionResults.Candidate",
           "@id": "0b52ab3a",
-          "PartyId": "",
+          "PartyId": "92bfc046",
           "BallotName": {
             "@type": "ElectionResults.InternationalizedText",
             "Text": [
@@ -3404,7 +3404,7 @@
         {
           "@type": "ElectionResults.Candidate",
           "@id": "72c7e489",
-          "PartyId": "",
+          "PartyId": "92bfc046",
           "BallotName": {
             "@type": "ElectionResults.InternationalizedText",
             "Text": [
@@ -3479,7 +3479,7 @@
         {
           "@type": "ElectionResults.Candidate",
           "@id": "2cf94ff0",
-          "PartyId": "",
+          "PartyId": "92bfc046",
           "BallotName": {
             "@type": "ElectionResults.InternationalizedText",
             "Text": [
@@ -3494,7 +3494,7 @@
         {
           "@type": "ElectionResults.Candidate",
           "@id": "6172a592",
-          "PartyId": "",
+          "PartyId": "92bfc046",
           "BallotName": {
             "@type": "ElectionResults.InternationalizedText",
             "Text": [
@@ -3509,7 +3509,7 @@
         {
           "@type": "ElectionResults.Candidate",
           "@id": "bb5e94dd",
-          "PartyId": "",
+          "PartyId": "92bfc046",
           "BallotName": {
             "@type": "ElectionResults.InternationalizedText",
             "Text": [
@@ -3524,7 +3524,7 @@
         {
           "@type": "ElectionResults.Candidate",
           "@id": "43df9732",
-          "PartyId": "",
+          "PartyId": "92bfc046",
           "BallotName": {
             "@type": "ElectionResults.InternationalizedText",
             "Text": [
@@ -4245,6 +4245,36 @@
           {
             "@type": "ElectionResults.LanguageString",
             "Content": "Socialistmo y Liberación",
+            "Language": "es"
+          }
+        ]
+      },
+      "Abbreviation": {
+        "@type": "ElectionResults.InternationalizedText",
+        "Text": [
+          {
+            "@type": "ElectionResults.LanguageString",
+            "Content": "SYL",
+            "Language": "en"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "ElectionResults.Party",
+      "@id": "92bfc046",
+      "Name": {
+        "@type": "ElectionResults.InternationalizedText",
+        "Label": "Empty Party",
+        "Text": [
+          {
+            "@type": "ElectionResults.LanguageString",
+            "Content": "Empty Party",
+            "Language": "en"
+          },
+          {
+            "@type": "ElectionResults.LanguageString",
+            "Content": "Partido Vazio",
             "Language": "es"
           }
         ]
