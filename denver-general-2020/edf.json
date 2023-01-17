@@ -33,6 +33,14 @@
       "BallotStyle": [
         {
           "@type": "ElectionResults.BallotStyle",
+          "ExternalIdentifier": [
+            {
+              "@type": "ElectionResults.ExternalIdentifier",
+              "Type": "other",
+              "OtherType": "TTV",
+              "Value": "131"
+            }
+          ],
           "ImageUri": [
             {
               "@type": "ElectionResults.AnnotatedUri",
@@ -66,6 +74,7 @@
                 "3cddfe3a",
                 "243367e1",
                 "e93ce5bb",
+                "67b84f68",
                 "cbcd9c44",
                 "7b92c5b3",
                 "971cd08c",
@@ -449,14 +458,6 @@
                 "73fc233f",
                 "a0cb5f6c"
               ]
-            }
-          ],
-          "ExternalIdentifier": [
-            {
-              "@type": "ElectionResults.ExternalIdentifier",
-              "Type": "other",
-              "OtherType": "TTV",
-              "Value": "denver-colorado"
             }
           ]
         }
