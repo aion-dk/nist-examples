@@ -12,8 +12,8 @@
     {
       "@type": "ElectionResults.Election",
       "ElectionScopeId": "8116a0ca",
-      "StartDate": "2022-12-20",
-      "EndDate": "2023-01-30",
+      "StartDate": "2023-01-17",
+      "EndDate": "2023-04-30",
       "Type": "general",
       "Name": {
         "@type": "ElectionResults.InternationalizedText",
