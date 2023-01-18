@@ -38,6 +38,442 @@
               "@type": "ElectionResults.ExternalIdentifier",
               "Type": "other",
               "OtherType": "TTV",
+              "Value": "940"
+            }
+          ],
+          "ImageUri": [
+            {
+              "@type": "ElectionResults.AnnotatedUri",
+              "Annotation": "application/pdf",
+              "Content": "https://bucket:8080/ballots/denver-general-2020/940.pdf"
+            }
+          ],
+          "GpUnitIds": [
+            "9d264361"
+          ],
+          "OrderedContent": [
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "1ff796cf",
+              "OrderedContestSelectionIds": [
+                "e48e8c99",
+                "85a26ef0",
+                "02cf6092",
+                "2e3932c9",
+                "f6a0bbbb",
+                "3cddfe3a",
+                "243367e1",
+                "e93ce5bb",
+                "67b84f68",
+                "cbcd9c44",
+                "7b92c5b3",
+                "971cd08c",
+                "5b387e38",
+                "ea09bb11",
+                "f76c6fec",
+                "ba709e3d",
+                "afbf6775",
+                "30a324d8",
+                "94d6c054",
+                "3fb9cad0",
+                "6d3f60cf",
+                "cc0c3dea"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "a6ba1226",
+              "OrderedContestSelectionIds": [
+                "01add619",
+                "513f1437",
+                "34fcf1b7",
+                "16fcb4a6",
+                "afc45737",
+                "cb5ec9c4"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "e344a51d",
+              "OrderedContestSelectionIds": [
+                "26db91f3",
+                "e123de04",
+                "99f7676e",
+                "e28ffa81",
+                "8ef8c29b"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "64ce88ab",
+              "OrderedContestSelectionIds": [
+                "f7619d85",
+                "1901a46d",
+                "54721dbb",
+                "ebfe96d2"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "7313603a",
+              "OrderedContestSelectionIds": [
+                "08f1445a",
+                "d0a4d764"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "3366e66d",
+              "OrderedContestSelectionIds": [
+                "274c8b95",
+                "92060baf",
+                "4c784b69"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "ec614a6d",
+              "OrderedContestSelectionIds": [
+                "e4e05d8a",
+                "20074880"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "7b480625",
+              "OrderedContestSelectionIds": [
+                "f0137937"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "3b8b26f8",
+              "OrderedContestSelectionIds": [
+                "f67bba01",
+                "114e8f30"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "1ae4d14a",
+              "OrderedContestSelectionIds": [
+                "f2f65721",
+                "4298a01f"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "a250ce59",
+              "OrderedContestSelectionIds": [
+                "199c83ff",
+                "0170a137"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "b048a01a",
+              "OrderedContestSelectionIds": [
+                "49f22c97",
+                "4718ef55"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "f6af731f",
+              "OrderedContestSelectionIds": [
+                "5be97f8d",
+                "9c46f9f0"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "1adfdeab",
+              "OrderedContestSelectionIds": [
+                "e3c03096",
+                "637bacc8"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "e4ae16aa",
+              "OrderedContestSelectionIds": [
+                "c4be245d",
+                "001a93bb"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "b5cb8c68",
+              "OrderedContestSelectionIds": [
+                "90b3677b",
+                "8f307454"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "e3972508",
+              "OrderedContestSelectionIds": [
+                "82e80001",
+                "1f2e9866"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "3ec488f0",
+              "OrderedContestSelectionIds": [
+                "d75c39e2",
+                "21f9c9ee"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "e6d14486",
+              "OrderedContestSelectionIds": [
+                "b85aac3c",
+                "97f5b954"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "abdae213",
+              "OrderedContestSelectionIds": [
+                "9a229906",
+                "672df60d"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "75ac2ef0",
+              "OrderedContestSelectionIds": [
+                "12fd2d7f",
+                "db008015"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "1d6639fd",
+              "OrderedContestSelectionIds": [
+                "75c83056",
+                "c6cc09f4"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "b4e09d63",
+              "OrderedContestSelectionIds": [
+                "7161f60e",
+                "fa6be39d"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "cc0d7c6a",
+              "OrderedContestSelectionIds": [
+                "fc51a9d4",
+                "d31f1ff4"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "5b9a23f1",
+              "OrderedContestSelectionIds": [
+                "0fc38332",
+                "ccbf3159"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "833709ff",
+              "OrderedContestSelectionIds": [
+                "0ce2f12c",
+                "ed0ad06d"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "0aaf31e7",
+              "OrderedContestSelectionIds": [
+                "f910a4c2",
+                "7fa4284a"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "a67ff35d",
+              "OrderedContestSelectionIds": [
+                "d97e29c8",
+                "24717401"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "55184cd1",
+              "OrderedContestSelectionIds": [
+                "1f00d850",
+                "93d85bd4"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "6da46f9b",
+              "OrderedContestSelectionIds": [
+                "561a8314",
+                "0db3c8b0"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "682965c1",
+              "OrderedContestSelectionIds": [
+                "2fbc2ebe",
+                "b6419e4e"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "127c88e3",
+              "OrderedContestSelectionIds": [
+                "eb0468f1",
+                "b8d64b44"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "b5c19470",
+              "OrderedContestSelectionIds": [
+                "e3529027",
+                "5094848f"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "76e77a92",
+              "OrderedContestSelectionIds": [
+                "cf941a9c",
+                "50d6d195"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "eebd0fa2",
+              "OrderedContestSelectionIds": [
+                "df3794c3",
+                "4174ef69"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "fd265e35",
+              "OrderedContestSelectionIds": [
+                "ae433e8a",
+                "2c35db5a"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "6d85bc3c",
+              "OrderedContestSelectionIds": [
+                "6a423d0e",
+                "032b8a85"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "e872ef8a",
+              "OrderedContestSelectionIds": [
+                "3936d020",
+                "0d9bf288"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "f8ea6f22",
+              "OrderedContestSelectionIds": [
+                "624eaaac",
+                "570837c1"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "b458ad4c",
+              "OrderedContestSelectionIds": [
+                "c84cc5d8",
+                "9e584f76"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "1dcdef1c",
+              "OrderedContestSelectionIds": [
+                "3b609b71",
+                "66fbab3e"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "8003b50a",
+              "OrderedContestSelectionIds": [
+                "427f8a2b",
+                "c310ae49"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "fbe76ba7",
+              "OrderedContestSelectionIds": [
+                "25f46f41",
+                "6c71663f"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "2c72824f",
+              "OrderedContestSelectionIds": [
+                "b359788d",
+                "2d16c275"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "acc9bd59",
+              "OrderedContestSelectionIds": [
+                "e8f003c3",
+                "ae6592a3"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "5c281dde",
+              "OrderedContestSelectionIds": [
+                "620b97f0",
+                "f7b64228"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "3b287a8c",
+              "OrderedContestSelectionIds": [
+                "8b2ef55a",
+                "a75f6c8b"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "78e7ae89",
+              "OrderedContestSelectionIds": [
+                "73fc233f",
+                "a0cb5f6c"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ElectionResults.BallotStyle",
+          "ExternalIdentifier": [
+            {
+              "@type": "ElectionResults.ExternalIdentifier",
+              "Type": "other",
+              "OtherType": "TTV",
               "Value": "131"
             }
           ],
@@ -820,6 +1256,87 @@
               "@id": "20074880",
               "CandidateIds": [
                 "f4b0b13c"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ElectionResults.CandidateContest",
+          "@id": "7313603a",
+          "Name": "State Senator - District 31",
+          "ElectionDistrictId": "8116a0ca",
+          "OfficeIds": [
+            "4172bffb"
+          ],
+          "VoteVariation": "n-of-m",
+          "VotesAllowed": 1,
+          "ContestSelection": [
+            {
+              "@type": "ElectionResults.CandidateSelection",
+              "@id": "08f1445a",
+              "CandidateIds": [
+                "662978aa"
+              ]
+            },
+            {
+              "@type": "ElectionResults.CandidateSelection",
+              "@id": "d0a4d764",
+              "CandidateIds": [
+                "2069a01e"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ElectionResults.CandidateContest",
+          "@id": "3366e66d",
+          "Name": "State Representative - District 9",
+          "ElectionDistrictId": "8116a0ca",
+          "OfficeIds": [
+            "7cc78a05"
+          ],
+          "VoteVariation": "n-of-m",
+          "VotesAllowed": 1,
+          "ContestSelection": [
+            {
+              "@type": "ElectionResults.CandidateSelection",
+              "@id": "274c8b95",
+              "CandidateIds": [
+                "c353b7dd"
+              ]
+            },
+            {
+              "@type": "ElectionResults.CandidateSelection",
+              "@id": "92060baf",
+              "CandidateIds": [
+                "ce5b57d0"
+              ]
+            },
+            {
+              "@type": "ElectionResults.CandidateSelection",
+              "@id": "4c784b69",
+              "CandidateIds": [
+                "c747e64e"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ElectionResults.CandidateContest",
+          "@id": "7b480625",
+          "Name": "Regional Transportation District Director - District E",
+          "ElectionDistrictId": "8116a0ca",
+          "OfficeIds": [
+            "dd36b117"
+          ],
+          "VoteVariation": "n-of-m",
+          "VotesAllowed": 1,
+          "ContestSelection": [
+            {
+              "@type": "ElectionResults.CandidateSelection",
+              "@id": "f0137937",
+              "CandidateIds": [
+                "92ccecec"
               ]
             }
           ]
@@ -3805,6 +4322,96 @@
               }
             ]
           }
+        },
+        {
+          "@type": "ElectionResults.Candidate",
+          "@id": "662978aa",
+          "PartyId": "424a826c",
+          "BallotName": {
+            "@type": "ElectionResults.InternationalizedText",
+            "Text": [
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "Chris Hansen",
+                "Language": "en"
+              }
+            ]
+          }
+        },
+        {
+          "@type": "ElectionResults.Candidate",
+          "@id": "2069a01e",
+          "PartyId": "76ba931e",
+          "BallotName": {
+            "@type": "ElectionResults.InternationalizedText",
+            "Text": [
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "Doug Townsend",
+                "Language": "en"
+              }
+            ]
+          }
+        },
+        {
+          "@type": "ElectionResults.Candidate",
+          "@id": "c353b7dd",
+          "PartyId": "76ba931e",
+          "BallotName": {
+            "@type": "ElectionResults.InternationalizedText",
+            "Text": [
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "Larry L. Braig",
+                "Language": "en"
+              }
+            ]
+          }
+        },
+        {
+          "@type": "ElectionResults.Candidate",
+          "@id": "ce5b57d0",
+          "PartyId": "424a826c",
+          "BallotName": {
+            "@type": "ElectionResults.InternationalizedText",
+            "Text": [
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "Emily Sirota",
+                "Language": "en"
+              }
+            ]
+          }
+        },
+        {
+          "@type": "ElectionResults.Candidate",
+          "@id": "c747e64e",
+          "PartyId": "cffe6e89",
+          "BallotName": {
+            "@type": "ElectionResults.InternationalizedText",
+            "Text": [
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "Wes Pinchot",
+                "Language": "en"
+              }
+            ]
+          }
+        },
+        {
+          "@type": "ElectionResults.Candidate",
+          "@id": "92ccecec",
+          "PartyId": "92bfc046",
+          "BallotName": {
+            "@type": "ElectionResults.InternationalizedText",
+            "Text": [
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "Paul Rosenthal",
+                "Language": "en"
+              }
+            ]
+          }
         }
       ]
     }
@@ -4491,6 +5098,66 @@
           }
         ]
       }
+    },
+    {
+      "@type": "ElectionResults.Office",
+      "@id": "4172bffb",
+      "IsPartisan": true,
+      "Name": {
+        "@type": "ElectionResults.InternationalizedText",
+        "Text": [
+          {
+            "@type": "ElectionResults.LanguageString",
+            "Content": "State Senator",
+            "Language": "en"
+          },
+          {
+            "@type": "ElectionResults.LanguageString",
+            "Content": "Senador del Estado",
+            "Language": "es"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "ElectionResults.Office",
+      "@id": "7cc78a05",
+      "IsPartisan": true,
+      "Name": {
+        "@type": "ElectionResults.InternationalizedText",
+        "Text": [
+          {
+            "@type": "ElectionResults.LanguageString",
+            "Content": "State Representative",
+            "Language": "en"
+          },
+          {
+            "@type": "ElectionResults.LanguageString",
+            "Content": "Representante del Estado",
+            "Language": "es"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "ElectionResults.Office",
+      "@id": "dd36b117",
+      "IsPartisan": false,
+      "Name": {
+        "@type": "ElectionResults.InternationalizedText",
+        "Text": [
+          {
+            "@type": "ElectionResults.LanguageString",
+            "Content": "Regional Transportation District Director",
+            "Language": "en"
+          },
+          {
+            "@type": "ElectionResults.LanguageString",
+            "Content": "Director Regional de Transporte del Distrito",
+            "Language": "es"
+          }
+        ]
+      }
     }
   ],
   "Person": [
@@ -4525,7 +5192,8 @@
       "@type": "ElectionResults.ReportingUnit",
       "Type": "state",
       "ComposingGpUnitIds": [
-        "4dac4917"
+        "4dac4917",
+        "9d264361"
       ],
       "Name": {
         "Text": [
@@ -4557,6 +5225,27 @@
           },
           {
             "Content": "Condado de Denver",
+            "Language": "es",
+            "@type": "ElectionResults.LanguageString"
+          }
+        ],
+        "@type": "ElectionResults.InternationalizedText"
+      }
+    },
+    {
+      "@id": "9d264361",
+      "@type": "ElectionResults.ReportingUnit",
+      "Type": "precinct",
+      "ComposingGpUnitIds": [ ],
+      "Name": {
+        "Text": [
+          {
+            "Content": "Aurora County",
+            "Language": "en",
+            "@type": "ElectionResults.LanguageString"
+          },
+          {
+            "Content": "Condado de Aurora",
             "Language": "es",
             "@type": "ElectionResults.LanguageString"
           }
