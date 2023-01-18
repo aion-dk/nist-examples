@@ -481,17 +481,7 @@
             {
               "@type": "ElectionResults.AnnotatedUri",
               "Annotation": "application/pdf",
-              "Content": "https://bucket:8080/ballots/denver-general-2020/102A.pdf"
-            },
-            {
-              "@type": "ElectionResults.AnnotatedUri",
-              "Annotation": "application/pdf",
-              "Content": "https://bucket:8080/ballots/denver-general-2020/102B.pdf"
-            },
-            {
-              "@type": "ElectionResults.AnnotatedUri",
-              "Annotation": "application/pdf",
-              "Content": "https://bucket:8080/ballots/denver-general-2020/102C.pdf"
+              "Content": "https://bucket:8080/ballots/denver-general-2020/131.pdf"
             }
           ],
           "GpUnitIds": [
@@ -573,6 +563,13 @@
               "OrderedContestSelectionIds": [
                 "e4e05d8a",
                 "20074880"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "42ca07da",
+              "OrderedContestSelectionIds": [
+                "11ec6650"
               ]
             },
             {
@@ -1337,6 +1334,26 @@
               "@id": "f0137937",
               "CandidateIds": [
                 "92ccecec"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ElectionResults.CandidateContest",
+          "@id": "42ca07da",
+          "Name": "Regional Transportation District Director - District E",
+          "ElectionDistrictId": "8116a0ca",
+          "OfficeIds": [
+            "91f338b0"
+          ],
+          "VoteVariation": "n-of-m",
+          "VotesAllowed": 1,
+          "ContestSelection": [
+            {
+              "@type": "ElectionResults.CandidateSelection",
+              "@id": "11ec6650",
+              "CandidateIds": [
+                "6e8a49ef"
               ]
             }
           ]
@@ -4408,6 +4425,21 @@
               {
                 "@type": "ElectionResults.LanguageString",
                 "Content": "Paul Rosenthal",
+                "Language": "en"
+              }
+            ]
+          }
+        },
+        {
+          "@type": "ElectionResults.Candidate",
+          "@id": "6e8a49ef",
+          "PartyId": "92bfc046",
+          "BallotName": {
+            "@type": "ElectionResults.InternationalizedText",
+            "Text": [
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "Bobby Dishell",
                 "Language": "en"
               }
             ]
