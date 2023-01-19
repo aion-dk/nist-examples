@@ -1341,7 +1341,7 @@
         {
           "@type": "ElectionResults.CandidateContest",
           "@id": "42ca07da",
-          "Name": "Regional Transportation District Director - District E",
+          "Name": "Regional Transportation District Director - District D",
           "ElectionDistrictId": "8116a0ca",
           "OfficeIds": [
             "91f338b0"
@@ -5174,6 +5174,26 @@
     {
       "@type": "ElectionResults.Office",
       "@id": "dd36b117",
+      "IsPartisan": false,
+      "Name": {
+        "@type": "ElectionResults.InternationalizedText",
+        "Text": [
+          {
+            "@type": "ElectionResults.LanguageString",
+            "Content": "Regional Transportation District Director",
+            "Language": "en"
+          },
+          {
+            "@type": "ElectionResults.LanguageString",
+            "Content": "Director Regional de Transporte del Distrito",
+            "Language": "es"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "ElectionResults.Office",
+      "@id": "91f338b0",
       "IsPartisan": false,
       "Name": {
         "@type": "ElectionResults.InternationalizedText",
