@@ -1,0 +1,654 @@
+{
+  "@type": "ElectionResults.ElectionReport",
+  "Format": "precinct-level",
+  "GeneratedDate": "2022-12-20T10:43:07Z",
+  "VendorApplicationId": "ElectionReporter",
+  "Issuer": "AssemblyVoting",
+  "IssuerAbbreviation": "AV",
+  "Status": "pre-election",
+  "SequenceStart": 1,
+  "SequenceEnd": 1,
+  "Election": [
+    {
+      "@type": "ElectionResults.Election",
+      "ElectionScopeId": "8116a0ca",
+      "StartDate": "2023-01-23",
+      "EndDate": "2023-04-30",
+      "Type": "general",
+      "Name": {
+        "@type": "ElectionResults.InternationalizedText",
+        "Text": [
+          {
+            "@type": "ElectionResults.LanguageString",
+            "Content": "Famous Names Election",
+            "Language": "en"
+          }
+        ]
+      },
+      "BallotStyle": [
+        {
+          "@type": "ElectionResults.BallotStyle",
+          "ExternalIdentifier": [
+            {
+              "@type": "ElectionResults.ExternalIdentifier",
+              "Type": "other",
+              "OtherType": "TTV",
+              "Value": "anytown-1"
+            }
+          ],
+          "ImageUri": [
+            {
+              "@type": "ElectionResults.AnnotatedUri",
+              "Annotation": "application/pdf",
+              "Content": "https://bucket:8080/ballots/denver-general-2020/940.pdf"
+            }
+          ],
+          "GpUnitIds": [
+            "9d264361"
+          ],
+          "OrderedContent": [
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "1ff796cf",
+              "OrderedContestSelectionIds": [
+                "e48e8c99",
+                "85a26ef0",
+                "02cf6092",
+                "2e3932c9",
+                "f6a0bbbb",
+                "3cddfe3a",
+                "cc0c3dea"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "a6ba1226",
+              "OrderedContestSelectionIds": [
+                "01add619",
+                "513f1437",
+                "7cb1fee9",
+                "34fcf1b7",
+                "16fcb4a6",
+                "afc45737",
+                "cb5ec9c4"
+              ]
+            },
+            {
+              "@type": "ElectionResults.OrderedContest",
+              "ContestId": "0aaf31e7",
+              "OrderedContestSelectionIds": [
+                "f910a4c2",
+                "7fa4284a"
+              ]
+            }
+          ]
+        }
+      ],
+      "Contest": [
+        {
+          "@type": "ElectionResults.CandidateContest",
+          "@id": "1ff796cf",
+          "Name": "Presidential Electors",
+          "ElectionDistrictId": "e06391d6",
+          "OfficeIds": [
+            "c937ab5e"
+          ],
+          "VoteVariation": "n-of-m",
+          "VotesAllowed": 1,
+          "ContestSelection": [
+            {
+              "@type": "ElectionResults.CandidateSelection",
+              "@id": "e48e8c99",
+              "CandidateIds": [
+                "ab729395"
+              ]
+            },
+            {
+              "@type": "ElectionResults.CandidateSelection",
+              "@id": "85a26ef0",
+              "CandidateIds": [
+                "967e43a0"
+              ]
+            },
+            {
+              "@type": "ElectionResults.CandidateSelection",
+              "@id": "02cf6092",
+              "CandidateIds": [
+                "6417c88c"
+              ]
+            },
+            {
+              "@type": "ElectionResults.CandidateSelection",
+              "@id": "2e3932c9",
+              "CandidateIds": [
+                "77ada04e"
+              ]
+            },
+            {
+              "@type": "ElectionResults.CandidateSelection",
+              "@id": "f6a0bbbb",
+              "CandidateIds": [
+                "0c5dee1e"
+              ]
+            },
+            {
+              "@type": "ElectionResults.CandidateSelection",
+              "@id": "3cddfe3a",
+              "CandidateIds": [
+                "1b46cfb8"
+              ]
+            },
+            {
+              "@type": "ElectionResults.CandidateSelection",
+              "@id": "cc0c3dea",
+              "IsWriteIn": true
+            }
+          ]
+        },
+        {
+          "@type": "ElectionResults.CandidateContest",
+          "@id": "a6ba1226",
+          "Name": "County Commissioner",
+          "ElectionDistrictId": "8116a0ca",
+          "OfficeIds": [
+            "f92e5c77"
+          ],
+          "VoteVariation": "n-of-m",
+          "VotesAllowed": 1,
+          "ContestSelection": [
+            {
+              "@type": "ElectionResults.CandidateSelection",
+              "@id": "01add619",
+              "CandidateIds": [
+                "36bc5cb5"
+              ]
+            },
+            {
+              "@type": "ElectionResults.CandidateSelection",
+              "@id": "513f1437",
+              "CandidateIds": [
+                "4564301b"
+              ]
+            },
+            {
+              "@type": "ElectionResults.CandidateSelection",
+              "@id": "7cb1fee9",
+              "CandidateIds": [
+                "0b52ab3a"
+              ]
+            },
+            {
+              "@type": "ElectionResults.CandidateSelection",
+              "@id": "34fcf1b7",
+              "CandidateIds": [
+                "153a9292"
+              ]
+            },
+            {
+              "@type": "ElectionResults.CandidateSelection",
+              "@id": "16fcb4a6",
+              "CandidateIds": [
+                "2870775a"
+              ]
+            },
+            {
+              "@type": "ElectionResults.CandidateSelection",
+              "@id": "afc45737",
+              "CandidateIds": [
+                "1ed6ca12"
+              ]
+            },
+            {
+              "@type": "ElectionResults.CandidateSelection",
+              "@id": "cb5ec9c4",
+              "IsWriteIn": true
+            }
+          ]
+        },
+        {
+          "@type": "ElectionResults.BallotMeasureContest",
+          "@id": "0aaf31e7",
+          "Name": "Ballot Question 1A",
+          "ElectionDistrictId": "8116a0ca",
+          "FullText": {
+            "@type": "ElectionResults.InternationalizedText",
+            "Text": [
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "Should taxes be increased by 0.05% to fund road improvements in Anytown, US?",
+                "Language": "en"
+              }
+            ]
+          },
+          "VoteVariation": "n-of-m",
+          "ContestSelection": [
+            {
+              "@type": "ElectionResults.BallotMeasureSelection",
+              "@id": "f910a4c2",
+              "Selection": {
+                "@type": "ElectionResults.InternationalizedText",
+                "Text": [
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "Yes/For",
+                    "Language": "en"
+                  }
+                ]
+              }
+            },
+            {
+              "@type": "ElectionResults.BallotMeasureSelection",
+              "@id": "7fa4284a",
+              "Selection": {
+                "@type": "ElectionResults.InternationalizedText",
+                "Text": [
+                  {
+                    "@type": "ElectionResults.LanguageString",
+                    "Content": "No/Against",
+                    "Language": "en"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "Candidate": [
+        {
+          "@type": "ElectionResults.Candidate",
+          "@id": "ab729395",
+          "PartyId": "7e715014",
+          "BallotName": {
+            "@type": "ElectionResults.InternationalizedText",
+            "Text": [
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "George Washington",
+                "Language": "en"
+              }
+            ]
+          }
+        },
+        {
+          "@type": "ElectionResults.Candidate",
+          "@id": "967e43a0",
+          "PartyId": "424a826c",
+          "BallotName": {
+            "@type": "ElectionResults.InternationalizedText",
+            "Text": [
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "Franklin Delano Roosevelt",
+                "Language": "en"
+              }
+            ]
+          }
+        },
+        {
+          "@type": "ElectionResults.Candidate",
+          "@id": "6417c88c",
+          "PartyId": "2e326e8b",
+          "BallotName": {
+            "@type": "ElectionResults.InternationalizedText",
+            "Text": [
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "Theodore Roosevelt",
+                "Language": "en"
+              }
+            ]
+          }
+        },
+        {
+          "@type": "ElectionResults.Candidate",
+          "@id": "77ada04e",
+          "PartyId": "76ba931e",
+          "BallotName": {
+            "@type": "ElectionResults.InternationalizedText",
+            "Text": [
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "Abraham Lincoln",
+                "Language": "en"
+              }
+            ]
+          }
+        },
+        {
+          "@type": "ElectionResults.Candidate",
+          "@id": "0c5dee1e",
+          "PartyId": "76ba931e",
+          "BallotName": {
+            "@type": "ElectionResults.InternationalizedText",
+            "Text": [
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "Ronald Reagan",
+                "Language": "en"
+              }
+            ]
+          }
+        },
+        {
+          "@type": "ElectionResults.Candidate",
+          "@id": "1b46cfb8",
+          "PartyId": "424a826c",
+          "BallotName": {
+            "@type": "ElectionResults.InternationalizedText",
+            "Text": [
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "John F. Kennedy",
+                "Language": "en"
+              }
+            ]
+          }
+        },
+        {
+          "@type": "ElectionResults.Candidate",
+          "@id": "36bc5cb5",
+          "PartyId": "7e715014",
+          "BallotName": {
+            "@type": "ElectionResults.InternationalizedText",
+            "Text": [
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "Clark Kent",
+                "Language": "en"
+              }
+            ]
+          }
+        },
+        {
+          "@type": "ElectionResults.Candidate",
+          "@id": "4564301b",
+          "PartyId": "7e715014",
+          "BallotName": {
+            "@type": "ElectionResults.InternationalizedText",
+            "Text": [
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "Tony Clark",
+                "Language": "en"
+              }
+            ]
+          }
+        },
+        {
+          "@type": "ElectionResults.Candidate",
+          "@id": "0b52ab3a",
+          "PartyId": "7e715014",
+          "BallotName": {
+            "@type": "ElectionResults.InternationalizedText",
+            "Text": [
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "Carol Danvers",
+                "Language": "en"
+              }
+            ]
+          }
+        },
+        {
+          "@type": "ElectionResults.Candidate",
+          "@id": "153a9292",
+          "PartyId": "7e715014",
+          "BallotName": {
+            "@type": "ElectionResults.InternationalizedText",
+            "Text": [
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "Steve Rogers",
+                "Language": "en"
+              }
+            ]
+          }
+        },
+        {
+          "@type": "ElectionResults.Candidate",
+          "@id": "2870775a",
+          "PartyId": "7e715014",
+          "BallotName": {
+            "@type": "ElectionResults.InternationalizedText",
+            "Text": [
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "Diana Prince",
+                "Language": "en"
+              }
+            ]
+          }
+        },
+        {
+          "@type": "ElectionResults.Candidate",
+          "@id": "1ed6ca12",
+          "PartyId": "7e715014",
+          "BallotName": {
+            "@type": "ElectionResults.InternationalizedText",
+            "Text": [
+              {
+                "@type": "ElectionResults.LanguageString",
+                "Content": "Bruce Wayne",
+                "Language": "en"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "Party": [
+    {
+      "@type": "ElectionResults.Party",
+      "@id": "424a826c",
+      "Name": {
+        "@type": "ElectionResults.InternationalizedText",
+        "Label": "Democratic",
+        "Text": [
+          {
+            "@type": "ElectionResults.LanguageString",
+            "Content": "Democratic",
+            "Language": "en"
+          }
+        ]
+      },
+      "Abbreviation": {
+        "@type": "ElectionResults.InternationalizedText",
+        "Text": [
+          {
+            "@type": "ElectionResults.LanguageString",
+            "Content": "DEM",
+            "Language": "en"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "ElectionResults.Party",
+      "@id": "76ba931e",
+      "Name": {
+        "@type": "ElectionResults.InternationalizedText",
+        "Label": "Republican",
+        "Text": [
+          {
+            "@type": "ElectionResults.LanguageString",
+            "Content": "Republican",
+            "Language": "en"
+          }
+        ]
+      },
+      "Abbreviation": {
+        "@type": "ElectionResults.InternationalizedText",
+        "Text": [
+          {
+            "@type": "ElectionResults.LanguageString",
+            "Content": "REP",
+            "Language": "en"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "ElectionResults.Party",
+      "@id": "2e326e8b",
+      "Name": {
+        "@type": "ElectionResults.InternationalizedText",
+        "Label": "Progressive",
+        "Text": [
+          {
+            "@type": "ElectionResults.LanguageString",
+            "Content": "Progressive",
+            "Language": "en"
+          }
+        ]
+      },
+      "Abbreviation": {
+        "@type": "ElectionResults.InternationalizedText",
+        "Text": [
+          {
+            "@type": "ElectionResults.LanguageString",
+            "Content": "PRG",
+            "Language": "en"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "ElectionResults.Party",
+      "@id": "7e715014",
+      "Name": {
+        "@type": "ElectionResults.InternationalizedText",
+        "Label": "Federalists",
+        "Text": [
+          {
+            "@type": "ElectionResults.LanguageString",
+            "Content": "Federalists",
+            "Language": "en"
+          }
+        ]
+      },
+      "Abbreviation": {
+        "@type": "ElectionResults.InternationalizedText",
+        "Text": [
+          {
+            "@type": "ElectionResults.LanguageString",
+            "Content": "FED",
+            "Language": "en"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "ElectionResults.Party",
+      "@id": "92bfc046",
+      "Name": {
+        "@type": "ElectionResults.InternationalizedText",
+        "Label": "Empty Party",
+        "Text": [
+          {
+            "@type": "ElectionResults.LanguageString",
+            "Content": "Empty Party",
+            "Language": "en"
+          }
+        ]
+      },
+      "Abbreviation": {
+        "@type": "ElectionResults.InternationalizedText",
+        "Text": [
+          {
+            "@type": "ElectionResults.LanguageString",
+            "Content": "SYL",
+            "Language": "en"
+          }
+        ]
+      }
+    }
+  ],
+  "Office": [
+    {
+      "@type": "ElectionResults.Office",
+      "@id": "c937ab5e",
+      "IsPartisan": true,
+      "Name": {
+        "@type": "ElectionResults.InternationalizedText",
+        "Text": [
+          {
+            "@type": "ElectionResults.LanguageString",
+            "Content": "Executive Office of the President",
+            "Language": "en"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "ElectionResults.Office",
+      "@id": "f92e5c77",
+      "IsPartisan": true,
+      "Name": {
+        "@type": "ElectionResults.InternationalizedText",
+        "Text": [
+          {
+            "@type": "ElectionResults.LanguageString",
+            "Content": "County Commissioner",
+            "Language": "en"
+          }
+        ]
+      }
+    }
+  ],
+  "GpUnit": [
+    {
+      "@id": "e06391d6",
+      "@type": "ElectionResults.ReportingUnit",
+      "Type": "country",
+      "ComposingGpUnitIds": [
+        "8116a0ca"
+      ],
+      "Name": {
+        "Text": [
+          {
+            "Content": "United States of America",
+            "Language": "en",
+            "@type": "ElectionResults.LanguageString"
+          }
+        ],
+        "@type": "ElectionResults.InternationalizedText"
+      }
+    },
+    {
+      "@id": "8116a0ca",
+      "@type": "ElectionResults.ReportingUnit",
+      "Type": "state",
+      "ComposingGpUnitIds": [
+        "4dac4917"
+      ],
+      "Name": {
+        "Text": [
+          {
+            "Content": "State of Any",
+            "Language": "en",
+            "@type": "ElectionResults.LanguageString"
+          }
+        ],
+        "@type": "ElectionResults.InternationalizedText"
+      }
+    },
+    {
+      "@id": "4dac4917",
+      "@type": "ElectionResults.ReportingUnit",
+      "Type": "precinct",
+      "ComposingGpUnitIds": [ ],
+      "Name": {
+        "Text": [
+          {
+            "Content": "Anytown",
+            "Language": "en",
+            "@type": "ElectionResults.LanguageString"
+          }
+        ],
+        "@type": "ElectionResults.InternationalizedText"
+      }
+    }
+  ]
+}
+
