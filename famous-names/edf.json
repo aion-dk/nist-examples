@@ -88,7 +88,7 @@
         {
           "@type": "ElectionResults.CandidateContest",
           "@id": "1ff796cf",
-          "Name": "Presidential Electors",
+          "Name": "Office of the President of the United States",
           "ElectionDistrictId": "e06391d6",
           "OfficeIds": [
             "c937ab5e"
@@ -154,7 +154,7 @@
             "f92e5c77"
           ],
           "VoteVariation": "n-of-m",
-          "VotesAllowed": 1,
+          "VotesAllowed": 2,
           "ContestSelection": [
             {
               "@type": "ElectionResults.CandidateSelection",
@@ -215,7 +215,7 @@
             "Text": [
               {
                 "@type": "ElectionResults.LanguageString",
-                "Content": "Should taxes be increased by 0.05% to fund road improvements in Anytown, US?",
+                "Content": "Shall the Department of Education ban access to artificial intelligence software on DOE networks and devices?",
                 "Language": "en"
               }
             ]
@@ -347,7 +347,7 @@
         {
           "@type": "ElectionResults.Candidate",
           "@id": "36bc5cb5",
-          "PartyId": "7e715014",
+          "PartyId": "92bfc046",
           "BallotName": {
             "@type": "ElectionResults.InternationalizedText",
             "Text": [
@@ -362,7 +362,7 @@
         {
           "@type": "ElectionResults.Candidate",
           "@id": "4564301b",
-          "PartyId": "7e715014",
+          "PartyId": "92bfc046",
           "BallotName": {
             "@type": "ElectionResults.InternationalizedText",
             "Text": [
@@ -377,7 +377,7 @@
         {
           "@type": "ElectionResults.Candidate",
           "@id": "0b52ab3a",
-          "PartyId": "7e715014",
+          "PartyId": "92bfc046",
           "BallotName": {
             "@type": "ElectionResults.InternationalizedText",
             "Text": [
@@ -392,7 +392,7 @@
         {
           "@type": "ElectionResults.Candidate",
           "@id": "153a9292",
-          "PartyId": "7e715014",
+          "PartyId": "92bfc046",
           "BallotName": {
             "@type": "ElectionResults.InternationalizedText",
             "Text": [
@@ -407,7 +407,7 @@
         {
           "@type": "ElectionResults.Candidate",
           "@id": "2870775a",
-          "PartyId": "7e715014",
+          "PartyId": "92bfc046",
           "BallotName": {
             "@type": "ElectionResults.InternationalizedText",
             "Text": [
@@ -422,7 +422,7 @@
         {
           "@type": "ElectionResults.Candidate",
           "@id": "1ed6ca12",
-          "PartyId": "7e715014",
+          "PartyId": "92bfc046",
           "BallotName": {
             "@type": "ElectionResults.InternationalizedText",
             "Text": [
@@ -543,11 +543,11 @@
       "@id": "92bfc046",
       "Name": {
         "@type": "ElectionResults.InternationalizedText",
-        "Label": "Empty Party",
+        "Label": "Non-Partisan",
         "Text": [
           {
             "@type": "ElectionResults.LanguageString",
-            "Content": "Empty Party",
+            "Content": "Non-Partisan",
             "Language": "en"
           }
         ]
@@ -583,7 +583,7 @@
     {
       "@type": "ElectionResults.Office",
       "@id": "f92e5c77",
-      "IsPartisan": true,
+      "IsPartisan": false,
       "Name": {
         "@type": "ElectionResults.InternationalizedText",
         "Text": [
